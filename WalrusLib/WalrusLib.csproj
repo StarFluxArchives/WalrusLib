@@ -4,6 +4,6 @@
 		<LangVersion>latest</LangVersion>
 	</PropertyGroup>
 	<ItemGroup>
-	  <PackageReference Include="StarFluxGames.Techtonica.ModBuildUtilities" Version="1.0.3" />
+	  <PackageReference Include="StarFluxGames.Techtonica.ModBuildUtilities" Version="1.0.4" />
 	</ItemGroup>
 </Project>
